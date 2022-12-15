@@ -1,0 +1,24 @@
+{
+    "name": "dcode PWA example",
+    "short_name": "dcode PWA example",
+    "start_url": ".",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/book2.png",
+            "sizes": "144x144",
+    "type": "image/png",
+    "purpose": "any"
+        },
+        {
+            
+            "src": "images/book4.png",
+            "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any"
+        }
+    ]
+
+}
